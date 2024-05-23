@@ -1,18 +1,2 @@
 // YouTube Awesome V1.0
-
-console.log(" __   __  _______  __   __  _______  __   __  _______  _______    _______  _     _  _______  _______  _______  __   __  _______ ");
-console.log("|  | |  ||       ||  | |  ||       ||  | |  ||  _    ||       |  |   _   || | _ | ||       ||       ||       ||  |_|  ||       |");
-console.log("|  |_|  ||   _   ||  | |  ||_     _||  | |  || |_|   ||    ___|  |  |_|  || || || ||    ___||  _____||   _   ||       ||    ___|");
-console.log("|       ||  | |  ||  |_|  |  |   |  |  |_|  ||       ||   |___   |       ||       ||   |___ | |_____ |  | |  ||       ||   |___ ");
-console.log("|_     _||  |_|  ||       |  |   |  |       ||  _   | |    ___|  |       ||       ||    ___||_____  ||  |_|  ||       ||    ___|");
-console.log("  |   |  |       ||       |  |   |  |       || |_|   ||   |___   |   _   ||   _   ||   |___  _____| ||       || ||_|| ||   |___ ");
-console.log("  |___|  |_______||_______|  |___|  |_______||_______||_______|  |__| |__||__| |__||_______||_______||_______||_|   |_||_______|");
-console.log("Loading please...");
-
-document.dispatchEvent(new KeyboardEvent("keydown", { key: "a" }));
-document.dispatchEvent(new KeyboardEvent("keydown", { key: "w" }));
-document.dispatchEvent(new KeyboardEvent("keydown", { key: "e" }));
-document.dispatchEvent(new KeyboardEvent("keydown", { key: "s" }));
-document.dispatchEvent(new KeyboardEvent("keydown", { key: "o" }));
-document.dispatchEvent(new KeyboardEvent("keydown", { key: "m" }));
-document.dispatchEvent(new KeyboardEvent("keydown", { key: "e" }));
+var _0x587fb1=_0x407a;function _0x407a(_0x489700,_0x19d760){var _0x1d5616=_0x4e28();return _0x407a=function(_0x4ccfc2,_0x17d4ca){_0x4ccfc2=_0x4ccfc2-0xef;var _0x4e2802=_0x1d5616[_0x4ccfc2];return _0x4e2802;},_0x407a(_0x489700,_0x19d760);}function _0x4e28(){var _0x15f307=['10151118pFxBJW','Loading\x20please...','8152oVGisd','keydown','log','(((.+)+)+)+$','31352TJAFjk','429441uNMqSB','310QihcQd','toString','dispatchEvent','516hZNFoG','16ZFCdCi','2262esGoCj','733469yYyqMk','2009abpESt','6172230wDZkZr','56VxKmrW','search'];_0x4e28=function(){return _0x15f307;};return _0x4e28();}(function(_0x39193f,_0x3a1862){var _0x2470ec=_0x407a,_0x2d5ff5=_0x39193f();while(!![]){try{var _0x2be608=-parseInt(_0x2470ec(0x100))/0x1*(-parseInt(_0x2470ec(0xf1))/0x2)+parseInt(_0x2470ec(0xf6))/0x3*(parseInt(_0x2470ec(0xfb))/0x4)+parseInt(_0x2470ec(0xf7))/0x5*(-parseInt(_0x2470ec(0xfc))/0x6)+-parseInt(_0x2470ec(0xfe))/0x7*(parseInt(_0x2470ec(0xf5))/0x8)+-parseInt(_0x2470ec(0xef))/0x9+-parseInt(_0x2470ec(0xff))/0xa+parseInt(_0x2470ec(0xfd))/0xb*(parseInt(_0x2470ec(0xfa))/0xc);if(_0x2be608===_0x3a1862)break;else _0x2d5ff5['push'](_0x2d5ff5['shift']());}catch(_0x36974f){_0x2d5ff5['push'](_0x2d5ff5['shift']());}}}(_0x4e28,0xbd285));var _0x17d4ca=(function(){var _0x438d2d=!![];return function(_0x437f22,_0x408159){var _0x334309=_0x438d2d?function(){if(_0x408159){var _0xc499ab=_0x408159['apply'](_0x437f22,arguments);return _0x408159=null,_0xc499ab;}}:function(){};return _0x438d2d=![],_0x334309;};}()),_0x4ccfc2=_0x17d4ca(this,function(){var _0x3724a8=_0x407a;return _0x4ccfc2[_0x3724a8(0xf8)]()[_0x3724a8(0x101)](_0x3724a8(0xf4))[_0x3724a8(0xf8)]()['constructor'](_0x4ccfc2)[_0x3724a8(0x101)](_0x3724a8(0xf4));});_0x4ccfc2(),console[_0x587fb1(0xf3)](_0x587fb1(0xf0)),document[_0x587fb1(0xf9)](new KeyboardEvent(_0x587fb1(0xf2),{'key':'a'})),document[_0x587fb1(0xf9)](new KeyboardEvent(_0x587fb1(0xf2),{'key':'w'})),document[_0x587fb1(0xf9)](new KeyboardEvent(_0x587fb1(0xf2),{'key':'e'})),document['dispatchEvent'](new KeyboardEvent(_0x587fb1(0xf2),{'key':'s'})),document['dispatchEvent'](new KeyboardEvent('keydown',{'key':'o'})),document[_0x587fb1(0xf9)](new KeyboardEvent(_0x587fb1(0xf2),{'key':'m'})),document[_0x587fb1(0xf9)](new KeyboardEvent(_0x587fb1(0xf2),{'key':'e'}));
